@@ -11,18 +11,19 @@
 ## Exercícios :pen:
 
 1. Um dos exercícios mais comuns quando se está a aprender uma língua estrangeira é a colocar as palavras na ordem correta, de uma frase que se encontra desordenada. Escreva um programa em Java que simule esta atividade de aprendizagem. 
-    📝 Para tal, deve considerar as seguintes operações:
+
+   📝 Para tal, deve considerar as seguintes operações:
 
     - Escrever uma frase, por parte do professor.
     - Armazenar a frase numa instância de   `List<String>`.
     - Baralhar as palavras da frase.
     - Mostrar a frase desordenada.
-    - Solicitar ao aluno para introduzir a palavra que pretende mudar de posição e a nova posição onde quer colocar essa palavra.
-        :warning: Considere a primeira palavra na posição 1, seguindo depois a sequência.
+    - Solicitar ao aluno para introduzir a palavra que pretende mudar de posição e a nova posição onde quer colocar essa palavra.  
+        ⚠️ Considere a primeira palavra na posição 1, seguindo depois a sequência.
     - A cada mudança de posição deve ser mostrada novamente a frase desordenada.
     - Este processo só deverá terminar quando a frase desordenada fica igual à original.
 
-      :desktop_computer: Exemplo de resultado esperado:
+      🖥️ Exemplo de resultado esperado:
 
     <img src="exerc_1.png" style="zoom:80%;" />
 
@@ -32,10 +33,10 @@
 
    Deverá ser possível:
    
-   - Solicitar ao professor para inscrever cada aluno na turma. 
-     :warning: A capacidade máxima do número de alunos da turma deverá ser fixado inicialmente. 
-   - Distribuir os alunos em grupos de 2, de forma aleatória. 
-     :warning: Se a turma tiver número ímpar de alunos inscritos, o último grupo deverá ficar com 3 elementos.
+   - Solicitar ao professor para inscrever cada aluno na turma.   
+     ⚠️ A capacidade máxima do número de alunos da turma deverá ser fixado inicialmente. 
+   - Distribuir os alunos em grupos de 2, de forma aleatória.  
+     ⚠️ Se a turma tiver número ímpar de alunos inscritos, o último grupo deverá ficar com 3 elementos.
    - Após a formação dos grupos, cada grupo deve ser listado e os alunos devem ser apresentados de forma ordenada.  
    
    📝 Escreva um programa em Java que simule o funcionamento desta turma de laboratório. Para tal, deve considerar as seguintes operações:
